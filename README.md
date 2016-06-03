@@ -1,6 +1,10 @@
 # Splatoon_IME
 スプラトゥーン用語を集めた「Google 日本語入力」用の辞書
 
+## ダウンロード
+
+[リリース履歴](https://github.com/kjozk/Splatoon_IME/releases)
+
 ## 使い方（新規インポート）
 
 * Windows版の場合
