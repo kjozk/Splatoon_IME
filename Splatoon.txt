@@ -2,17 +2,17 @@
 あいろにっく	アイロニック	名詞	Splatoon: ブランド
 あおり	Marie	アルファベット	Splatoon: キャラクター
 あおり	アオリ	人名	Splatoon: キャラクター
-あおり	1号	短縮よみ	Splatoon
+あおり	1号	短縮よみ	Splatoon: キャラクター
 あかざっぷ	N-ZAP89	短縮よみ	Splatoon: ブキ
 あたりめいど	Cuttlegear	アルファベット	Splatoon: ブランド
-あたりめいど	アタリメイド	名詞	Splatoon: ブランド
+あたりめいど	アタリメイド	固有名詞	Splatoon: ブランド
 あたりめしれい	Cap'n Cuttlefish	アルファベット	Splatoon: キャラクター
 あたりめしれい	アタリメ司令	人名	Splatoon: キャラクター
 あねも	Annie	アルファベット	Splatoon: キャラクター
 あねも	アネモ	人名	Splatoon: キャラクター
-あみーぼ	amiibo	名詞	Splatoon: ブランド
+あみーぼ	amiibo	固有名詞	Splatoon: ブランド
 あろめ	Tentatek	アルファベット	Splatoon: ブランド
-あろめ	アロメ	名詞	Splatoon: ブランド
+あろめ	アロメ	固有名詞	Splatoon: ブランド
 あろわなもーる	Arowana Mall	アルファベット	Splatoon: ステージ
 あろわなもーる	アロワナモール	地名	Splatoon: ステージ
 あんぜんしゅーず	Ink Resistance Up	アルファベット	Splatoon: ギアパワー
@@ -43,7 +43,7 @@
 えいちすりーりーるがんちぇりー	H3リールガンチェリー	名詞	Splatoon: ブキチセレクション Vol.2
 えいちすりーりーるがんでぃー	H3リールガンD	名詞	Splatoon: H3リールガンにメーカーのロゴをあしらった特別なデザインのモデル。ポイントセンサーやスーパーショットで、元のブキとは異なる戦い方ができる。
 えぞっこ	Zekko	アルファベット	Splatoon: ブランド
-えぞっこ	エゾッコ	名詞	Splatoon: ブランド
+えぞっこ	エゾッコ	固有名詞	Splatoon: ブランド
 えちぜん	Jelonzo	アルファベット	Splatoon: キャラクター
 えちぜん	エチゼン	人名	Splatoon: キャラクター
 えるすりーりーるがん	L3リールガン	名詞	Splatoon: １回の操作で３発の弾を連射するブキ。続けて発射するにはタイミングよくボタンを押さなければならないが、精度が高く、飛距離もやや長い。
@@ -86,7 +86,7 @@
 くまの	Moe	アルファベット	Splatoon: キャラクター
 くまの	クマノ	人名	Splatoon: キャラクター
 くらーげす	Krak-On	アルファベット	Splatoon: ブランド
-くらーげす	クラーゲス	名詞	Splatoon: ブランド
+くらーげす	クラーゲス	固有名詞	Splatoon: ブランド
 くらーけんあっぷ	Kraken Up	固有名詞	Splatoon: サウンドトラック
 こうかした	デカライン高架下	短縮よみ	Splatoon: ステージ
 こうげきりょくあっぷ	Damage Up	アルファベット	Splatoon: ギアパワー
@@ -110,9 +110,9 @@
 しおのめゆでん	Saltspray Rig	アルファベット	Splatoon
 しおのめゆでん	シオノメ油田	地名	Splatoon: ステージ
 しぐれに	Inkline	アルファベット	Splatoon: ブランド
-しぐれに	シグレニ	名詞	Splatoon: ブランド
+しぐれに	シグレニ	固有名詞	Splatoon: ブランド
 じもん	Splash Mob	アルファベット	Splatoon: ブランド
-じもん	ジモン	名詞	Splatoon: ブランド
+じもん	ジモン	固有名詞	Splatoon: ブランド
 しゃーぷまーかー	Splash-O-Matic	アルファベット	Splatoon: ブキ
 しゃーぷまーかー	シャープマーカー	名詞	Splatoon: 上級者向けに開発されたブキ。攻撃力はひかえめだが弾のバラつきが少ない。照準をキッチリ合わせることができればこのブキの真価を発揮することができる。
 しゃーぷまーかーねお	Neo Splash-O-Matic	アルファベット	Splatoon: ブキ
@@ -249,7 +249,7 @@
 ばすぱーく	Blackbelly Skatepark	アルファベット	Splatoon: ステージ
 ばすぱーく	Bバスパーク	短縮よみ	Splatoon: ステージ
 ばとろいか	SquidForce	アルファベット	Splatoon: ブランド
-ばとろいか	バトロイカ	名詞	Splatoon: ブランド
+ばとろいか	バトロイカ	固有名詞	Splatoon: ブランド
 ぱぶろ	Inkbrush	アルファベット	Splatoon: ブキ
 ぱぶろ	パブロ	名詞	Splatoon: 軽くて強い筆をベースにすることで高い機動力をもたせた新開発のブキ。えがく線は細いが、塗って走る速度は快速！接近戦では高速でふりまくれる。
 ぱぶろひゅー	Inkbrush Nouveau	アルファベット	Splatoon: ブキ
@@ -273,11 +273,11 @@
 ひらめがおかだんち	ヒラメが丘団地	地名	Splatoon: ステージ
 ふぁいなるくりすたるだすと	ファイナルクリスタルダスト	名詞	Splatoon
 ふぁみつう	Famitsu	アルファベット	Splatoon: ブランド
-ふぁみつう	ファミ通	名詞	Splatoon: ブランド
+ふぁみつう	ファミ通	固有名詞	Splatoon: ブランド
 ふぇす	splatfest	アルファベット	Splatoon
 ふぇす	フェス	名詞	Splatoon
 ふぉーりま	Forge	アルファベット	Splatoon: ブランド
-ふぉーりま	フォーリマ	名詞	Splatoon: ブランド
+ふぉーりま	フォーリマ	固有名詞	Splatoon: ブランド
 ぶきち	Sheldon	アルファベット	Splatoon: キャラクター
 ぶきち	ブキチ	人名	Splatoon: キャラクター
 ふっかつじかんたんしゅく	Quick Respawn	アルファベット	Splatoon: ギアパワー
@@ -312,12 +312,12 @@
 ほたっくす	ホタックス	名詞	Splatoon: ブランド
 ほたる	Callie	アルファベット	Splatoon: キャラクター
 ほたる	ホタル	人名	Splatoon: キャラクター
-ほたる	2号	短縮よみ	Splatoon
+ほたる	2号	短縮よみ	Splatoon: キャラクター
 ほっかす	ホットブラスターカスタム	短縮よみ	Splatoon: ブキ
 ほっけふとう	Port Mackerel	アルファベット	Splatoon: ステージ
 ほっけふとう	ホッケふ頭	地名	Splatoon: ステージ
 ほっこりー	Firefin	アルファベット	Splatoon: ブランド
-ほっこりー	ホッコリー	名詞	Splatoon: ブランド
+ほっこりー	ホッコリー	固有名詞	Splatoon: ブランド
 ほっとぶらすたー	Blaster	アルファベット	Splatoon: ブキ
 ほっとぶらすたー	ホットブラスター	名詞	Splatoon: 独自のインク弾を発射するブキ。このインク弾は一定時間空気中の酸素にふれることで大きく爆発する。その爆発で広い面積を攻撃できる。
 ほっとぶらすたーかすたむ	Custom Blaster	アルファベット	Splatoon: ブキ
@@ -347,7 +347,7 @@
 もんがらきゃんぷじょう	Camp Triggerfish	アルファベット	Splatoon: ステージ
 もんがらきゃんぷじょう	モンガラキャンプ場	地名	Splatoon: ステージ
 やこ	Takoroka	アルファベット	Splatoon: ブランド
-やこ	ヤコ	名詞	Splatoon: ブランド
+やこ	ヤコ	固有名詞	Splatoon: ブランド
 ゆでん	シオノメ油田	短縮よみ	Splatoon: ステージ
 らすとすぱーと	Last-Ditch Effort	アルファベット	Splatoon: ギアパワー
 らすとすぱーと	ラストスパート	名詞	Splatoon: ギアパワー
@@ -372,7 +372,7 @@
 りったーすりーけーかすたむ	リッター3Kカスタム	名詞	Splatoon: リッター3Kの特注モデル。ジャンプビーコンで自チームの起点を作ったりダイオウイカで接近戦をこなしたり、新たな戦い方ができるようになった。
 ろーらー	スプラローラー	短縮よみ	Splatoon: ブキ
 ろっけんべるぐ	Rockenberg	アルファベット	Splatoon: ブランド
-ろっけんべるぐ	ロッケンベルグ	名詞	Splatoon: ブランド
+ろっけんべるぐ	ロッケンベルグ	固有名詞	Splatoon: ブランド
 ろぶ	Crusty Sean	アルファベット	Splatoon: キャラクター
 ろぶ	ロブ	人名	Splatoon: キャラクター
 ろんぐぶらすたーねくろ	ロングブラスターネクロ	名詞	Splatoon: ブキチセレクション Vol.2
