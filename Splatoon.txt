@@ -93,6 +93,8 @@
 こうげきりょくあっぷ	攻撃力アップ	名詞	Splatoon: ギアパワー
 ごつぎゃる	.52 Gal	短縮よみ	Splatoon: ブキ
 ころころ	スプラローラーコロコロ	名詞	Splatoon: ブキチセレクション Vol.2
+ころころきゃっぷ	コロコロキャップ	名詞	Splatoon: フク
+ころころぱーかー	コロコロパーカー	名詞	Splatoon: フク
 さざえ	スーパーサザエ	短縮よみ	Splatoon
 ざっぷ	N-Zap '85	アルファベット	Splatoon: ブキ
 ざっぷ	N-Zap '89	アルファベット	Splatoon: ブキ
@@ -248,6 +250,7 @@
 はこふぐそうこ	ハコフグ倉庫	地名	Splatoon: ステージ
 ばすぱーく	Blackbelly Skatepark	アルファベット	Splatoon: ステージ
 ばすぱーく	Bバスパーク	短縮よみ	Splatoon: ステージ
+ばとるすぴなーりみっくす	バレルスピナーリミックス	名詞	Splatoon: ブキチセレクション Vol.2
 ばとろいか	SquidForce	アルファベット	Splatoon: ブランド
 ばとろいか	バトロイカ	固有名詞	Splatoon: ブランド
 ぱぶろ	Inkbrush	アルファベット	Splatoon: ブキ
@@ -295,6 +298,7 @@
 ぷろもでらーあーるじー	プロモデラーRG	名詞	Splatoon: プロモデラーMGのサブとスペシャルをブキチがアレンジしたブキ。トラップで相手をさそいこんで倒したり、トルネードで遠くの相手を攻撃したりできる。
 ぷろもでらーえむじー	Aerospray MG	アルファベット	Splatoon: ブキ
 ぷろもでらーえむじー	プロモデラーMG	名詞	Splatoon: ブキ
+ぷろもでらーぴーじー	プロモデラーPG	名詞	Splatoon: ブキチセレクション Vol.2
 ぽいずんぼーる	Disruptor	アルファベット	Splatoon: サブウェポン
 ぽいずんぼーる	ポイズンボール	名詞	Splatoon: サブウェポン
 ぽいんとせんさー	Point Sensor	アルファベット	Splatoon: サブウェポン
